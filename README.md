@@ -6,7 +6,7 @@ Ranger was designed as a final project for the Integrated Learning Stream from t
 
 Over the last few weeks, our team has worked tirelessly to bring this product to life. Here's a chart to show how many hours we worked:
 
-![HoursWorked](/HoursWorked.jpg)
+![HoursWorked](/HoursWorked.PNG)
 
 
 
