@@ -10,7 +10,7 @@ Over the last few weeks, our team has worked tirelessly to bring this product to
 
 
 
-Emilia designed a high-pass filter that was customized to the human voice, Alaa took charge of the hardware, and Malaika wrote all the code. The PIC microprocessor wasn't the easieset microprocessor to work with, and coupled with the matrix keypad, we had a real challlenge on our hands. But together we managed to overcome all the obstacles. 
+Emilia designed a high-pass filter that was customized to the human voice, Alaa took charge of the hardware, and Malaika wrote all the code. The PIC microprocessor wasn't the easiest microprocessor to work with, and coupled with the matrix keypad, we had a real challlenge on our hands. But together we managed to overcome all the obstacles. 
 
 
 ![Circuit Schematic](/CircuitDiagram.jpg)
