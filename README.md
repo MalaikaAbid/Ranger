@@ -16,6 +16,12 @@ Emilia designed a high-pass filter that was customized to the human voice, Alaa 
 ![Circuit Schematic](/CircuitDiagram.jpg)
 
 
+![Inside the Box](/InsidetheBox.jpg)
+
+
+
+
+
 
 
 And here's Ranger...
