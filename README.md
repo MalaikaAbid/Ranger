@@ -23,7 +23,7 @@ Don’t Press This One                     5
 
 And here's Ranger...
 
-![Ranger](url)
+![Ranger](/Ranger.jpg)
 
 
 
